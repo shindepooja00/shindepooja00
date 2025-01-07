@@ -15,7 +15,7 @@ While I enjoyed my time in QA, I often felt like a fish in a small pond, craving
 ---
 
 ### 💼 **What I’ve Done**  
-- **Freelance AI/ML Projects**  
+- **AI/ML Intern at CatalystAI**  
    - Built conversational AI chatbots for appointment scheduling, cancellations, and patient communication.  
    - Created predictive models and automated workflows using **Make**, **Calendly**, and chatbot platforms.  
    - Gained hands-on experience crafting user-friendly and production-ready solutions.  
